@@ -1982,3 +1982,21 @@ input{
 #we-serve{
   padding-top: 30px;
 }
+
+#demo{
+  font-size: 60px;
+  font-weight: 900;
+}
+
+@media only screen and (max-width: 600px) {
+  #demo {
+    font-size: 39px;
+  }
+}
+#presalelink{
+  font-size: 30px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #610592;
+  padding: 20px 40px 20px 40px;
+}
